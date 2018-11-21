@@ -5,6 +5,7 @@
   "main": "modular-jsx.min.js",
   "dependencies": {
     "modular-ui": "^2.9.3",
+    "uglifyjs-webpack-plugin": "^2.0.1",
     "webpack": "^4.26.0"
   },
   "devDependencies": {},

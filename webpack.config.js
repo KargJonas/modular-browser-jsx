@@ -1,4 +1,5 @@
 const path = require("path");
+// const UglifyJsPlugin = require("uglifyjs-webpack-plugin");
 
 module.exports = {
   // mode: "development",
@@ -7,5 +8,10 @@ module.exports = {
   output: {
     path: path.resolve("./"),
     filename: "modular-jsx.min.js"
-  }
+  },
+  // optimization: {
+  //   minimizer: [
+  //     new UglifyJsPlugin({ uglifyOptions: { output: { comments: false } } })
+  //   ]
+  // }
 };
