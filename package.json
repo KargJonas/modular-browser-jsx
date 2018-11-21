@@ -1,0 +1,20 @@
+{
+  "name": "modular-browser-jsx",
+  "version": "1.0.0",
+  "description": "A little tool that enables you to use Modular with JSX directly in the browser.",
+  "main": "modular-jsx.min.js",
+  "dependencies": {
+    "modular-ui": "^2.9.3",
+    "webpack": "^4.26.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "modular-ui",
+    "jsx"
+  ],
+  "author": "Jonas Karg",
+  "license": "MIT"
+}
