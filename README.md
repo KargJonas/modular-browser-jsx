@@ -8,8 +8,8 @@
 <script src="path/to/modular-jsx.min.js"></script>
 ```
 
-### RawGit link:
-https://rawgit.vom/KargJonas/modular-browser-jsx/modular-jsx.min.js
+### jsDelivr link:
+https://cdn.jsdelivr.net/gh/KargJonas/modular-browser-jsx/modular-jsx.min.js
 
 ## - Usage
 Any script, that utilizes Modular with JSX has to have a `type="modular/jsx"` attribute:
